@@ -5,7 +5,7 @@ Contact me at:
 
 rafael.fvianna@hotmail.com
 
-<img src="https://user-images.githubusercontent.com/86623865/123689251-65e99e00-d829-11eb-889a-d905f1f0fb69.png" width="50")
+<img src="linkedin-logo-3.png" width="50")
 
 
 <!--
