@@ -1,6 +1,6 @@
 ## Hi there 👋
 - I'm currently learning different machine learning models, as well as a wide range of data work techniques
-- Main interests: Data Science, Data Analysis and Machine Learning
+- Main interests: Data Science, Data Analysis, Machine Learning and AI
 - Languages: Python (advanced) and SQL (intermediate)
 - Basic knowledge of GIT
 
