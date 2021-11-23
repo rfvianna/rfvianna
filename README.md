@@ -1,6 +1,7 @@
 ## Hi there 👋
 - I'm currently learning different machine learning models, as well as a wide range of data work techniques
-- Knowledge of Neural Networks, Classification, Regression and Clustering models
+- Knowledge of Classification, Regression and Clustering models
+- Basic knowledge of Neural Networks
 - Main interests: Data Science, Data Analysis, Machine Learning and AI
 - Languages: Python (advanced) and SQL (intermediate)
 - Basic knowledge of GIT
