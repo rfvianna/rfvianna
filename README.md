@@ -8,7 +8,7 @@
 
 Contact me at:
 
-rafael.fvianna@hotmail.com
+fvianna.rafael@gmail.com
 
 <a href="#"><img src="/linkedin-logo-3.png" width="15">[ LinkedIn](https://www.linkedin.com/in/rafael-filardo-vianna/)
 
