@@ -4,7 +4,7 @@
 - Basic knowledge of Neural Networks
 - Main interests: Data Science, Data Analysis, Machine Learning and AI
 - Languages: Python and SQL 
-- Basic knowledge of GIT
+- Knowledge of GIT
 
 Contact me at:
 
