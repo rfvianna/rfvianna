@@ -4,7 +4,7 @@ I'm a data scientist that has had  hands-on experience with data analysis in dig
 🔘 Stacks and Tools
 
 
-Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SQL, PySpark (Apache Spark), Cloud Computing (AWS and Amazon SageMaker), PowerBI, ETL, Git, PyTorch, TensorFlow, Docker, FastAPI, Simplex, AHP, Pyomo, Snowflake e Databricks.
+Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SQL, PySpark (Apache Spark), Cloud Computing (AWS and Amazon SageMaker), PowerBI, ETL, Git, PyTorch, TensorFlow, Docker, FastAPI, Simplex, AHP, Pyomo, Snowflake and Databricks.
 
 🔘 Experiences
 
